@@ -1,5 +1,5 @@
 const accountId = 144553
-let accountEmail = "sangam@google.com"
+let accountEmail = "coder@google.com"
 var accountPassword = "12345"
 accountCity = "Jaipur"
 let accountState;
@@ -7,7 +7,7 @@ let accountState;
 // accountId = 2 // not allowed
 
 
-accountEmail = "sc@sc.com"
+accountEmail = "cb@cb.com"
 accountPassword = "21212121"
 accountCity = "Bengaluru"
 
