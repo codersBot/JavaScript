@@ -41,7 +41,7 @@ let negvalue = -value
 //console.log(2%3);
 
 let str1 = "hello"
-let str2 = " sangam"
+let str2 = "coder"
 
 let str3 = str1 + str2
 // console.log(str3);
