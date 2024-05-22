@@ -8,7 +8,7 @@ console.log (3
     
     // code readibility should be high
 
-    console.log("sangam")
+    console.log("coder")
 
 // DataTypes in JS
 
