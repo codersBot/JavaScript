@@ -1,15 +1,15 @@
-const accountId = 144553
+const accountId = 94837
 let accountEmail = "coder@google.com"
-var accountPassword = "12345"
-accountCity = "Jaipur"
-let accountState;
+var accountPassword = "11111 "
+accountCity = "Delhi"
+let accountState; // if its value  not written then it will consider as udefined
 
-// accountId = 2 // not allowed
+ //accountId = 2  change not allowed in const
 
 
 accountEmail = "cb@cb.com"
-accountPassword = "21212121"
-accountCity = "Bengaluru"
+accountPassword = "00000000"
+accountCity = "jaipur"
 
 console.log(accountId);
 
