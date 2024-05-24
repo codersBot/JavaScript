@@ -17,11 +17,11 @@ let age = 18
 let isloggedIn = false
 let state;
 
-// number => 2 to power 53
-// bignit
-// string => ""
+// number => for number less than 2^53
+// bignit => for number more than 2^53
+// string => "some text"
 // boolean => true/false
-// null=> standalone value
+// null=> standalone value 
 // undefined =>
 // symbol => unique
 
